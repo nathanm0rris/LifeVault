@@ -11,52 +11,13 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Money/17 North Street Bills Calcs.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "17 North Street Bills Calcs"
-            }
-          },
-          {
-            "id": "93bc910ea14c4416",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "To Do/To Do 03-09-2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "To Do 03-09-2025"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,12 +158,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 373.5,
-    "collapsed": true
+    "width": 373.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -215,22 +175,18 @@
       "bases:Create new base": false,
       "homepage:Open homepage": false,
       "obsidian-importer:Open Importer": false,
-      "obsidian-kanban:Create new board": false,
       "smart-connections:Open: Smart Chat": false,
       "smart-connections:Smart Connections: Open connections view": false,
       "smart-connections:Smart Connections: Open random connection": true,
       "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false,
-      "github-gitless-sync:Open sync conflicts view": false,
-      "github-gitless-sync:Sync with GitHub": false,
-      "syncthing-integration:Open Syncthing conflict manager modal": false
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "93bc910ea14c4416",
+  "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "To Do/To Do 03-09-2025.md",
     "Money/Bills to send to Ollie.md",
     "Money/17 North Street Bills Calcs.md",
-    "To Do/To Do 03-09-2025.md",
     "To Do/Portfolio.md",
     "To Do/This week.md",
     "To Do/Other Bits.md",
