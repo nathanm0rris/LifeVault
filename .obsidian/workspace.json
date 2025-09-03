@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "To Do/To Do.md",
+                "file": "Gift ideas.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "To Do"
+              "title": "Gift ideas"
             }
           }
         ]
@@ -197,12 +197,16 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Home.canvas",
+    "Untitled.base",
     "Gift ideas.md",
-    "Life Goals.md",
     "Calendar.md",
-    "Home.md",
+    "Birthdays.md",
+    "Life Goals.md",
+    "Obsidian Plugins.md",
+    "Home.canvas",
     "To Do/To Do 03-09-2025.md",
+    "To Do/To Do.md",
+    "Home.md",
     "Money/Bills to send to Ollie.md",
     "Money/17 North Street Bills Calcs.md",
     "To Do/Portfolio.md",
@@ -210,9 +214,6 @@
     "To Do/Other Bits.md",
     "To Do/Getting Brain Back together.md",
     "To Do/Catchup.md",
-    "Birthdays.md",
-    "Obsidian Plugins.md",
-    "To Do/To Do.md",
     "PhD Bits/ICED Interesting papers.md",
     "PhD Bits/Things to do for the PhD.md",
     "PhD Bits/PhD Pros + Cons List.md",
