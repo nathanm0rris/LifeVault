@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Gift ideas.md",
+                "file": "Shopping & Clothes/Shopping List.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Gift ideas"
+              "title": "Shopping List"
             }
           }
         ]
@@ -176,8 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5,
-    "collapsed": true
+    "width": 373.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,30 +196,30 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Untitled.base",
     "Gift ideas.md",
+    "Shopping & Clothes/Shopping List.md",
+    "To Do/Catchup.md",
+    "To Do/Getting Brain Back together.md",
+    "To Do/Other Bits.md",
+    "To Do/Portfolio.md",
+    "To Do/This week.md",
+    "To Do/To Do.md",
+    "Untitled.base",
     "Calendar.md",
     "Birthdays.md",
     "Life Goals.md",
     "Obsidian Plugins.md",
     "Home.canvas",
     "To Do/To Do 03-09-2025.md",
-    "To Do/To Do.md",
     "Home.md",
     "Money/Bills to send to Ollie.md",
     "Money/17 North Street Bills Calcs.md",
-    "To Do/Portfolio.md",
-    "To Do/This week.md",
-    "To Do/Other Bits.md",
-    "To Do/Getting Brain Back together.md",
-    "To Do/Catchup.md",
     "PhD Bits/ICED Interesting papers.md",
     "PhD Bits/Things to do for the PhD.md",
     "PhD Bits/PhD Pros + Cons List.md",
     "PhD Bits/PhD first meeting ideas.md",
     "PhD Bits/PhD Concepts to Think about.md",
     "Random Ideas.md",
-    "Shopping & Clothes/Shopping List.md",
     "Shopping & Clothes/Places to buy things.md",
     "Shopping & Clothes/Phones Comparison.md",
     "Shopping & Clothes/Furniture & Things to buy for next year.md"
