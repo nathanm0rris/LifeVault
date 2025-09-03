@@ -1,0 +1,258 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "4509724f8bf84da7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e7a7b303c61786dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Money/17 North Street Bills Calcs.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "17 North Street Bills Calcs"
+            }
+          },
+          {
+            "id": "93bc910ea14c4416",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "To Do/To Do 03-09-2025.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "To Do 03-09-2025"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "674782b352d30d3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "df789819d95caa37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db105a444b5fc86d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "62d7f735d2551b61",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "fff703d7297f9e4a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "31691390b9bc74e4",
+    "type": "split",
+    "children": [
+      {
+        "id": "09e79688753ae836",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "297d1795b1c6719a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Birthdays.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Birthdays"
+            }
+          },
+          {
+            "id": "9bddc9f9e1d6e093",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "To Do/To Do 03-09-2025.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from To Do 03-09-2025"
+            }
+          },
+          {
+            "id": "9576ee821884e641",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b2aac4c72f85c5bb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "To Do/To Do 03-09-2025.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of To Do 03-09-2025"
+            }
+          },
+          {
+            "id": "2aff997b9089197d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 373.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "homepage:Open homepage": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-kanban:Create new board": false,
+      "smart-connections:Open: Smart Chat": false,
+      "smart-connections:Smart Connections: Open connections view": false,
+      "smart-connections:Smart Connections: Open random connection": true,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false,
+      "github-gitless-sync:Open sync conflicts view": false,
+      "github-gitless-sync:Sync with GitHub": false,
+      "syncthing-integration:Open Syncthing conflict manager modal": false
+    }
+  },
+  "active": "93bc910ea14c4416",
+  "lastOpenFiles": [
+    "Money/Bills to send to Ollie.md",
+    "Money/17 North Street Bills Calcs.md",
+    "To Do/To Do 03-09-2025.md",
+    "To Do/Portfolio.md",
+    "To Do/This week.md",
+    "To Do/Other Bits.md",
+    "To Do/Getting Brain Back together.md",
+    "To Do/Catchup.md",
+    "Birthdays.md",
+    "Obsidian Plugins.md",
+    "Life Goals.md",
+    "Gift ideas.md",
+    "Calendar.md",
+    "To Do/To Do.md",
+    "PhD Bits/ICED Interesting papers.md",
+    "PhD Bits/Things to do for the PhD.md",
+    "PhD Bits/PhD Pros + Cons List.md",
+    "PhD Bits/PhD first meeting ideas.md",
+    "PhD Bits/PhD Concepts to Think about.md",
+    "Untitled.canvas",
+    "Random Ideas.md",
+    "Shopping & Clothes/Shopping List.md",
+    "Shopping & Clothes/Places to buy things.md",
+    "Shopping & Clothes/Phones Comparison.md",
+    "Shopping & Clothes/Furniture & Things to buy for next year.md",
+    "Hello boos.md"
+  ]
+}

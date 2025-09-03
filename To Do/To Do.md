@@ -1,0 +1,17 @@
+---
+tags:
+---
+- [ ] Journal Paper
+- [ ] Save important info
+- [x] Buy some inhalers
+- [ ] Buy Clothes & Shoes
+- [x] Move Notes to Obsidian
+- [x] Sort Notes
+- [ ] Student Loan Spreadsheet
+- [ ] Expenses spreadsheet
+- [ ] Investments spreadsheet
+- [ ] Update recipes 
+- [x] Grandma Card
+- [X] Nationwide sort
+- [X] Expenses Save Receipts
+- [X] Find cool ICED papers

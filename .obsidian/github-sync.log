@@ -1,0 +1,557 @@
+{"timestamp":"2025-09-02T21:36:31.686Z","level":"INFO","message":"Starting sync"}
+{"timestamp":"2025-09-02T21:36:32.106Z","level":"INFO","message":"Nothing to sync"}
+{"timestamp":"2025-09-02T21:36:46.941Z","level":"INFO","message":"Adding config dir to metadata"}
+{"timestamp":"2025-09-02T21:36:55.109Z","level":"INFO","message":"Starting sync"}
+{"timestamp":"2025-09-02T21:36:55.127Z","level":"INFO","message":"Actions to sync","additional_data":[{"type":"upload","filePath":".obsidian/app.json"},{"type":"upload","filePath":".obsidian/appearance.json"},{"type":"upload","filePath":".obsidian/backlink.json"},{"type":"upload","filePath":".obsidian/community-plugins.json"},{"type":"upload","filePath":".obsidian/core-plugins.json"},{"type":"upload","filePath":".obsidian/github-sync.log"},{"type":"upload","filePath":".obsidian/graph.json"},{"type":"upload","filePath":".obsidian/workspace.json"},{"type":"upload","filePath":".obsidian/plugins/various-complements/histories.json"},{"type":"upload","filePath":".obsidian/plugins/various-complements/main.js"},{"type":"upload","filePath":".obsidian/plugins/various-complements/manifest.json"},{"type":"upload","filePath":".obsidian/plugins/various-complements/styles.css"},{"type":"upload","filePath":".obsidian/plugins/templater-obsidian/main.js"},{"type":"upload","filePath":".obsidian/plugins/templater-obsidian/manifest.json"},{"type":"upload","filePath":".obsidian/plugins/templater-obsidian/styles.css"},{"type":"upload","filePath":".obsidian/plugins/tag-wrangler/main.js"},{"type":"upload","filePath":".obsidian/plugins/tag-wrangler/manifest.json"},{"type":"upload","filePath":".obsidian/plugins/smart-connections/data.json"},{"type":"upload","filePath":".obsidian/plugins/smart-connections/main.js"},{"type":"upload","filePath":".obsidian/plugins/smart-connections/manifest.json"},{"type":"upload","filePath":".obsidian/plugins/smart-connections/styles.css"},{"type":"upload","filePath":".obsidian/plugins/periodic-notes/main.js"},{"type":"upload","filePath":".obsidian/plugins/periodic-notes/manifest.json"},{"type":"upload","filePath":".obsidian/plugins/periodic-notes/styles.css"},{"type":"upload","filePath":".obsidian/plugins/obsidian-paste-image-rename/main.js"},{"type":"upload","filePath":".obsidian/plugins/obsidian-paste-image-rename/manifest.json"},{"type":"upload","filePath":".obsidian/plugins/obsidian-paste-image-rename/styles.css"},{"type":"upload","filePath":".obsidian/plugins/obsidian-linter/data.json"},{"type":"upload","filePath":".obsidian/plugins/obsidian-linter/main.js"},{"type":"upload","filePath":".obsidian/plugins/obsidian-linter/manifest.json"},{"type":"upload","filePath":".obsidian/plugins/obsidian-linter/styles.css"},{"type":"upload","filePath":".obsidian/plugins/obsidian-kanban/main.js"},{"type":"upload","filePath":".obsidian/plugins/obsidian-kanban/manifest.json"},{"type":"upload","filePath":".obsidian/plugins/obsidian-kanban/styles.css"},{"type":"upload","filePath":".obsidian/plugins/obsidian-importer/main.js"},{"type":"upload","filePath":".obsidian/plugins/obsidian-importer/manifest.json"},{"type":"upload","filePath":".obsidian/plugins/obsidian-importer/styles.css"},{"type":"upload","filePath":".obsidian/plugins/homepage/main.js"},{"type":"upload","filePath":".obsidian/plugins/homepage/manifest.json"},{"type":"upload","filePath":".obsidian/plugins/homepage/styles.css"},{"type":"upload","filePath":".obsidian/plugins/github-gitless-sync/data.json"},{"type":"upload","filePath":".obsidian/plugins/github-gitless-sync/main.js"},{"type":"upload","filePath":".obsidian/plugins/github-gitless-sync/manifest.json"},{"type":"upload","filePath":".obsidian/plugins/github-gitless-sync/styles.css"},{"type":"upload","filePath":".obsidian/plugins/calendar/data.json"},{"type":"upload","filePath":".obsidian/plugins/calendar/main.js"},{"type":"upload","filePath":".obsidian/plugins/calendar/manifest.json"},{"type":"upload","filePath":".obsidian/plugins/auto-note-mover/main.js"},{"type":"upload","filePath":".obsidian/plugins/auto-note-mover/manifest.json"}]}
+{"timestamp":"2025-09-02T21:37:00.650Z","level":"INFO","message":"Sync done"}
+{"timestamp":"2025-09-02T21:51:10.878Z","level":"INFO","message":"Received modify event","additional_data":"Shopping & Clothes/Furniture & Things to buy for next year.md"}
+{"timestamp":"2025-09-02T21:52:21.128Z","level":"INFO","message":"Received modify event","additional_data":"Shopping & Clothes/Furniture & Things to buy for next year.md"}
+{"timestamp":"2025-09-02T21:52:23.131Z","level":"INFO","message":"Received modify event","additional_data":"Shopping & Clothes/Furniture & Things to buy for next year.md"}
+{"timestamp":"2025-09-02T21:52:25.656Z","level":"INFO","message":"Received modify event","additional_data":"Shopping & Clothes/Furniture & Things to buy for next year.md"}
+{"timestamp":"2025-09-02T21:55:33.215Z","level":"INFO","message":"Received modify event","additional_data":"Shopping & Clothes/Furniture & Things to buy for next year.md"}
+{"timestamp":"2025-09-02T21:55:37.067Z","level":"INFO","message":"Received modify event","additional_data":"Shopping & Clothes/Furniture & Things to buy for next year.md"}
+{"timestamp":"2025-09-02T21:55:41.802Z","level":"INFO","message":"Received modify event","additional_data":"Shopping & Clothes/Furniture & Things to buy for next year.md"}
+{"timestamp":"2025-09-02T21:55:44.048Z","level":"INFO","message":"Received modify event","additional_data":"Shopping & Clothes/Furniture & Things to buy for next year.md"}
+{"timestamp":"2025-09-02T21:55:46.075Z","level":"INFO","message":"Received modify event","additional_data":"Shopping & Clothes/Furniture & Things to buy for next year.md"}
+{"timestamp":"2025-09-02T21:57:05.284Z","level":"INFO","message":"Received modify event","additional_data":"Shopping & Clothes/Furniture & Things to buy for next year.md"}
+{"timestamp":"2025-09-02T21:57:07.482Z","level":"INFO","message":"Received modify event","additional_data":"Shopping & Clothes/Furniture & Things to buy for next year.md"}
+{"timestamp":"2025-09-02T21:57:10.436Z","level":"INFO","message":"Received modify event","additional_data":"Shopping & Clothes/Furniture & Things to buy for next year.md"}
+{"timestamp":"2025-09-02T21:57:12.968Z","level":"INFO","message":"Received modify event","additional_data":"Shopping & Clothes/Furniture & Things to buy for next year.md"}
+{"timestamp":"2025-09-02T22:07:21.180Z","level":"INFO","message":"Received modify event","additional_data":"Shopping & Clothes/Furniture & Things to buy for next year.md"}
+{"timestamp":"2025-09-02T22:07:24.085Z","level":"INFO","message":"Received modify event","additional_data":"Shopping & Clothes/Furniture & Things to buy for next year.md"}
+{"timestamp":"2025-09-02T22:07:44.370Z","level":"INFO","message":"Received modify event","additional_data":"Shopping & Clothes/Furniture & Things to buy for next year.md"}
+{"timestamp":"2025-09-02T22:07:47.443Z","level":"INFO","message":"Received modify event","additional_data":"Shopping & Clothes/Furniture & Things to buy for next year.md"}
+{"timestamp":"2025-09-02T22:07:50.008Z","level":"INFO","message":"Received modify event","additional_data":"Shopping & Clothes/Furniture & Things to buy for next year.md"}
+{"timestamp":"2025-09-02T22:07:52.093Z","level":"INFO","message":"Received modify event","additional_data":"Shopping & Clothes/Furniture & Things to buy for next year.md"}
+{"timestamp":"2025-09-02T22:07:57.654Z","level":"INFO","message":"Received modify event","additional_data":"Shopping & Clothes/Furniture & Things to buy for next year.md"}
+{"timestamp":"2025-09-02T22:08:00.416Z","level":"INFO","message":"Received modify event","additional_data":"Shopping & Clothes/Furniture & Things to buy for next year.md"}
+{"timestamp":"2025-09-02T22:08:10.085Z","level":"INFO","message":"Received modify event","additional_data":"Shopping & Clothes/Furniture & Things to buy for next year.md"}
+{"timestamp":"2025-09-02T22:08:12.486Z","level":"INFO","message":"Received modify event","additional_data":"Shopping & Clothes/Furniture & Things to buy for next year.md"}
+{"timestamp":"2025-09-02T22:08:14.525Z","level":"INFO","message":"Received modify event","additional_data":"Shopping & Clothes/Furniture & Things to buy for next year.md"}
+{"timestamp":"2025-09-02T22:08:16.863Z","level":"INFO","message":"Received modify event","additional_data":"Shopping & Clothes/Furniture & Things to buy for next year.md"}
+{"timestamp":"2025-09-02T22:08:18.946Z","level":"INFO","message":"Received modify event","additional_data":"Shopping & Clothes/Furniture & Things to buy for next year.md"}
+{"timestamp":"2025-09-02T22:08:22.732Z","level":"INFO","message":"Received modify event","additional_data":"Shopping & Clothes/Furniture & Things to buy for next year.md"}
+{"timestamp":"2025-09-02T22:08:34.924Z","level":"INFO","message":"Received modify event","additional_data":"Shopping & Clothes/Furniture & Things to buy for next year.md"}
+{"timestamp":"2025-09-02T22:08:38.974Z","level":"INFO","message":"Received modify event","additional_data":"Shopping & Clothes/Furniture & Things to buy for next year.md"}
+{"timestamp":"2025-09-02T22:10:46.983Z","level":"INFO","message":"Received modify event","additional_data":"To Do/Catchup.md"}
+{"timestamp":"2025-09-02T22:11:04.151Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do.md"}
+{"timestamp":"2025-09-02T22:11:30.865Z","level":"INFO","message":"Received create event","additional_data":"Untitled.canvas"}
+{"timestamp":"2025-09-02T22:11:30.955Z","level":"INFO","message":"Updated created file","additional_data":"Untitled.canvas"}
+{"timestamp":"2025-09-02T22:11:34.719Z","level":"INFO","message":"Received modify event","additional_data":"Untitled.canvas"}
+{"timestamp":"2025-09-02T22:11:34.726Z","level":"INFO","message":"Updated modified file","additional_data":"Untitled.canvas"}
+{"timestamp":"2025-09-02T22:11:56.781Z","level":"INFO","message":"Received delete event","additional_data":"Untitled.canvas"}
+{"timestamp":"2025-09-02T22:11:56.796Z","level":"INFO","message":"Updated deleted file","additional_data":"Untitled.canvas"}
+{"timestamp":"2025-09-02T22:12:08.206Z","level":"INFO","message":"Received create event","additional_data":"Untitled.md"}
+{"timestamp":"2025-09-02T22:12:08.318Z","level":"INFO","message":"Updated created file","additional_data":"Untitled.md"}
+{"timestamp":"2025-09-02T22:12:11.213Z","level":"INFO","message":"Received rename event","additional_data":"To Do/Untitled.md"}
+{"timestamp":"2025-09-02T22:12:11.221Z","level":"INFO","message":"Received create event","additional_data":"To Do/Untitled.md"}
+{"timestamp":"2025-09-02T22:12:11.226Z","level":"INFO","message":"Updated created file","additional_data":"To Do/Untitled.md"}
+{"timestamp":"2025-09-02T22:12:11.228Z","level":"INFO","message":"Received delete event","additional_data":"Untitled.md"}
+{"timestamp":"2025-09-02T22:12:11.241Z","level":"INFO","message":"Updated deleted file","additional_data":"Untitled.md"}
+{"timestamp":"2025-09-02T22:12:25.642Z","level":"INFO","message":"Received rename event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:12:25.656Z","level":"INFO","message":"Received create event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:12:25.668Z","level":"INFO","message":"Updated created file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:12:25.669Z","level":"INFO","message":"Received delete event","additional_data":"To Do/Untitled.md"}
+{"timestamp":"2025-09-02T22:12:25.683Z","level":"INFO","message":"Updated deleted file","additional_data":"To Do/Untitled.md"}
+{"timestamp":"2025-09-02T22:12:39.156Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:12:39.172Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:12:42.473Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:12:42.490Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:12:44.572Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:12:44.589Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:12:47.677Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:12:47.692Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:12:52.751Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:12:52.764Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:13:02.729Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:13:02.746Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:13:05.276Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:13:05.300Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:13:07.332Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:13:07.349Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:13:11.413Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:13:11.432Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:13:13.513Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:13:13.530Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:13:15.572Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:13:15.587Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:13:21.159Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:13:21.176Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:13:24.274Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:13:24.287Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:13:26.693Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:13:26.737Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:13:28.704Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:13:28.717Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:13:47.902Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:13:47.917Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:13:50.084Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:13:50.101Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:13:52.413Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:13:52.423Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:13:54.391Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:13:54.410Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:13:58.713Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:13:58.731Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:14:01.565Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:14:01.583Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:14:03.678Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:14:03.691Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:14:05.854Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:14:05.871Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:14:07.941Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:14:07.959Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:14:10.256Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:14:10.273Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:14:13.714Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:14:13.729Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:14:15.712Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:14:15.733Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:14:17.871Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:14:17.889Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:14:20.221Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:14:20.237Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:14:25.934Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:14:25.951Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:14:33.436Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:14:33.449Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:14:35.485Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:14:35.506Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:14:39.245Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:14:39.259Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:14:41.281Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:14:41.299Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:14:43.364Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:14:43.380Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:14:45.398Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:14:45.416Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:14:47.614Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:14:47.626Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:14:49.709Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:14:49.721Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:14:51.806Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:14:51.824Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:14:54.111Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:14:54.128Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:14:56.952Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:14:56.965Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:15:01.751Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:15:01.765Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:15:03.890Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:15:03.908Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:15:06.376Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:15:06.389Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:15:32.071Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:15:32.131Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:15:34.150Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:15:34.165Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:15:40.076Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:15:40.105Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:15:42.112Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:15:42.129Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:15:44.894Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:15:44.907Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:15:47.144Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:15:47.156Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:15:49.246Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:15:49.258Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:16:31.697Z","level":"INFO","message":"Received modify event","additional_data":"To Do/Getting Brain Back together.md"}
+{"timestamp":"2025-09-02T22:16:35.459Z","level":"INFO","message":"Received modify event","additional_data":"To Do/Other Bits.md"}
+{"timestamp":"2025-09-02T22:16:43.856Z","level":"INFO","message":"Received modify event","additional_data":"To Do/Other Bits.md"}
+{"timestamp":"2025-09-02T22:16:57.417Z","level":"INFO","message":"Received modify event","additional_data":"To Do/Portfolio.md"}
+{"timestamp":"2025-09-02T22:17:46.620Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:17:46.633Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:17:48.752Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:17:48.763Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:17:50.868Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:17:50.881Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:17:52.929Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:17:52.939Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:17:55.050Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:17:55.075Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:17:57.078Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:17:57.089Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:17:59.152Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:17:59.164Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:18:01.430Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:18:01.447Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:18:18.956Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:18:18.965Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:18:20.954Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:18:20.968Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:18:25.614Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:18:25.626Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:18:27.955Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:18:27.977Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:18:30.052Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:18:30.074Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:18:32.087Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:18:32.104Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:18:34.471Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:18:34.485Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:18:37.167Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:18:37.181Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:18:39.263Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:18:39.276Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:18:41.666Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:18:41.681Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:18:48.545Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:18:48.556Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:18:54.629Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:18:54.643Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:18:59.147Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:18:59.163Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:19:01.323Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:19:01.340Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:19:21.657Z","level":"INFO","message":"Starting sync"}
+{"timestamp":"2025-09-02T22:19:21.983Z","level":"ERROR","message":"Failed to get repo content","additional_data":{"status":409,"headers":{"access-control-allow-origin":"*","access-control-expose-headers":"ETag, Link, Location, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Used, X-RateLimit-Resource, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval, X-GitHub-Media-Type, X-GitHub-SSO, X-GitHub-Request-Id, Deprecation, Sunset","content-length":"139","content-security-policy":"default-src 'none'","content-type":"application/json; charset=utf-8","date":"Tue, 02 Sep 2025 22:19:22 GMT","github-authentication-token-expiration":"2025-10-02 21:11:34 UTC","referrer-policy":"origin-when-cross-origin, strict-origin-when-cross-origin","server":"github.com","strict-transport-security":"max-age=31536000; includeSubdomains; preload","vary":"Accept-Encoding, Accept, X-Requested-With","x-accepted-oauth-scopes":"","x-content-type-options":"nosniff","x-github-api-version-selected":"2022-11-28","x-github-media-type":"github.v3; format=json","x-github-request-id":"FD1A:5852D:24799:3145F:68B76D6A","x-oauth-scopes":"codespace, project, repo, write:discussion, write:network_configurations","x-ratelimit-limit":"5000","x-ratelimit-remaining":"4999","x-ratelimit-reset":"1756855162","x-ratelimit-resource":"core","x-ratelimit-used":"1","x-xss-protection":"0"},"arrayBuffer":{},"json":{"message":"Git Repository is empty.","documentation_url":"https://docs.github.com/rest/git/trees#get-a-tree","status":"409"},"text":"{\n  \"message\": \"Git Repository is empty.\",\n  \"documentation_url\": \"https://docs.github.com/rest/git/trees#get-a-tree\",\n  \"status\": \"409\"\n}\n"}}
+{"timestamp":"2025-09-02T22:19:45.860Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:19:45.875Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:19:47.945Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-02T22:19:47.977Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T09:45:57.218Z","level":"INFO","message":"Loading metadata"}
+{"timestamp":"2025-09-03T09:45:57.260Z","level":"INFO","message":"Loaded metadata"}
+{"timestamp":"2025-09-03T10:18:32.620Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T10:18:32.674Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T10:38:03.351Z","level":"INFO","message":"Received create event","additional_data":"Untitled.md"}
+{"timestamp":"2025-09-03T10:38:03.630Z","level":"INFO","message":"Updated created file","additional_data":"Untitled.md"}
+{"timestamp":"2025-09-03T10:38:06.712Z","level":"INFO","message":"Received rename event","additional_data":"Money/Untitled.md"}
+{"timestamp":"2025-09-03T10:38:06.760Z","level":"INFO","message":"Received create event","additional_data":"Money/Untitled.md"}
+{"timestamp":"2025-09-03T10:38:06.775Z","level":"INFO","message":"Updated created file","additional_data":"Money/Untitled.md"}
+{"timestamp":"2025-09-03T10:38:06.779Z","level":"INFO","message":"Received delete event","additional_data":"Untitled.md"}
+{"timestamp":"2025-09-03T10:38:06.802Z","level":"INFO","message":"Updated deleted file","additional_data":"Untitled.md"}
+{"timestamp":"2025-09-03T10:38:14.781Z","level":"INFO","message":"Received rename event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:38:14.847Z","level":"INFO","message":"Received create event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:38:14.866Z","level":"INFO","message":"Updated created file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:38:14.869Z","level":"INFO","message":"Received delete event","additional_data":"Money/Untitled.md"}
+{"timestamp":"2025-09-03T10:38:14.897Z","level":"INFO","message":"Updated deleted file","additional_data":"Money/Untitled.md"}
+{"timestamp":"2025-09-03T10:38:18.453Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:38:18.481Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:38:20.853Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:38:20.873Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:38:23.412Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:38:23.446Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:38:25.515Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:38:25.546Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:38:27.612Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:38:27.649Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:38:29.760Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:38:29.802Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:38:34.513Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:38:34.548Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:38:38.746Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:38:38.782Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:38:40.960Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:38:40.996Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:38:45.484Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:38:45.507Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:41:07.783Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:41:07.824Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:41:10.080Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:41:10.106Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:41:12.296Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:41:12.333Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:41:14.361Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:41:14.393Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:41:21.747Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:41:21.785Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:41:23.602Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:41:23.627Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:43:56.247Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:43:56.284Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:43:58.371Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:43:58.401Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:44:01.295Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:44:01.331Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:44:07.112Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:44:07.147Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:44:11.233Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:44:11.248Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:44:53.992Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:44:54.034Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:44:56.450Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:44:56.492Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:44:58.641Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:44:58.676Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:45:05.205Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:45:05.242Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:49:22.861Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:49:22.897Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:49:32.841Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:49:32.876Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:49:35.338Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:49:35.368Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:49:37.224Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:49:37.257Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:49:40.675Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:49:40.706Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:50:21.160Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:50:21.196Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:50:23.260Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:50:23.294Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:50:39.355Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:50:39.391Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:50:41.583Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:50:41.614Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:50:44.167Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:50:44.202Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:50:46.285Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:50:46.352Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:50:48.351Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:50:48.384Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:51:06.492Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:51:06.556Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:51:08.531Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:51:08.562Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:51:10.634Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:51:10.661Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:51:12.828Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:51:12.860Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:51:23.391Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:51:23.418Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:51:25.505Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:51:25.520Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:51:27.815Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:51:27.852Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:51:30.116Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:51:30.153Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:51:32.240Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:51:32.274Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:51:34.879Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:51:34.917Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:51:54.199Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:51:54.238Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:51:56.282Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:51:56.317Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:51:58.484Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:51:58.514Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:52:00.787Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:52:00.815Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:52:02.911Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:52:02.948Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:52:10.859Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:52:10.892Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:52:16.404Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:52:16.612Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:53:21.301Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:53:21.338Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:53:23.887Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:53:23.927Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:53:25.987Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:53:26.011Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:53:40.217Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:53:40.267Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:53:42.265Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:53:42.303Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:53:44.948Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:53:44.987Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:53:46.991Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:53:47.033Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:53:49.030Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:53:49.060Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:53:51.601Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:53:51.635Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:53:56.007Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:53:56.045Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:53:58.698Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:53:58.729Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:54:01.499Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:54:01.522Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:54:09.350Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:54:09.375Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:55:27.182Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:55:27.221Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:55:29.208Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:55:29.246Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:55:31.281Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:55:31.311Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:55:42.227Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:55:42.258Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:55:44.345Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:55:44.377Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:55:49.544Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:55:49.577Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:55:51.760Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:55:51.798Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:55:53.854Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:55:53.890Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:55:56.056Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:55:56.082Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:56:10.568Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:56:10.603Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:56:24.895Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:56:24.925Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:56:28.136Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:56:28.157Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:58:07.072Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:58:07.108Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:58:09.159Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:58:09.191Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:58:11.787Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:58:11.820Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:58:13.994Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:58:14.022Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:58:17.754Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:58:17.800Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:59:19.693Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:59:19.736Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:59:21.794Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:59:21.835Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:59:23.820Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:59:23.854Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:59:25.885Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:59:25.908Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:59:27.887Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:59:27.929Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:59:31.475Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:59:31.514Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:59:35.625Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T10:59:35.659Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:00:02.119Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:00:02.155Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:00:04.189Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:00:04.221Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:00:06.380Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:00:06.419Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:00:10.464Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:00:10.496Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:00:14.759Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:00:14.802Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:00:18.934Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:00:18.977Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:00:20.956Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:00:20.994Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:00:23.109Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:00:23.137Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:00:25.217Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:00:25.257Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:00:28.392Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:00:28.426Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:15:39.263Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:15:39.293Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:15:41.883Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:15:41.917Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:15:53.268Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:15:53.293Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:15:55.320Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:15:55.349Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:15:57.757Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:15:57.795Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:16:00.063Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:16:00.092Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:16:17.858Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:16:17.888Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:16:20.051Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:16:20.080Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:16:22.122Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:16:22.161Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:16:26.715Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:16:26.766Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:16:29.683Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:16:29.714Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:16:32.077Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:16:32.106Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:16:37.759Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:16:37.814Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:16:39.799Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:16:39.823Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:16:42.881Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:16:42.899Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:17:31.766Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:17:31.807Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:17:33.801Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:17:33.845Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:17:39.659Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:17:39.686Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:17:42.677Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:17:42.709Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:17:44.540Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:17:44.591Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:17:51.803Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:17:51.827Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:17:54.338Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:17:54.361Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:17:56.474Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:17:56.508Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:17:58.649Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:17:58.682Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:18:00.924Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:18:00.959Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:18:27.377Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:18:27.415Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:18:29.515Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:18:29.550Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:18:33.588Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:18:33.625Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:18:36.065Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:18:36.094Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:18:41.728Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:18:41.762Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:18:44.464Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:18:44.494Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:18:46.633Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:18:46.667Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:18:49.559Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:18:49.590Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:18:51.638Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:18:51.665Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:18:53.691Z","level":"INFO","message":"Received modify event","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:18:53.728Z","level":"INFO","message":"Updated modified file","additional_data":"Money/Bills to send to Ollie.md"}
+{"timestamp":"2025-09-03T11:19:36.542Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T11:19:36.575Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T11:19:39.059Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T11:19:39.087Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T11:19:44.072Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T11:19:44.099Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T11:19:46.517Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T11:19:46.553Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T11:19:48.610Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T11:19:48.634Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T11:19:54.078Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T11:19:54.103Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T11:19:56.220Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T11:19:56.246Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T11:19:58.302Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T11:19:58.330Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T11:20:05.252Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T11:20:05.291Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T11:20:07.515Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T11:20:07.543Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T11:20:09.791Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T11:20:09.827Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T11:20:11.883Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T11:20:11.907Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T11:20:14.690Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T11:20:14.723Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T11:20:16.854Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T11:20:16.880Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T11:20:18.907Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T11:20:18.933Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T11:20:21.032Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T11:20:21.067Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T11:20:23.187Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T11:20:23.215Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T11:40:26.725Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T11:40:26.757Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T11:40:29.210Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T11:40:29.241Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T11:40:32.146Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T11:40:32.172Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T11:40:35.522Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T11:40:35.554Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T15:55:47.750Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T15:55:47.779Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T15:55:57.615Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T15:55:57.632Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T15:55:59.790Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T15:55:59.811Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T15:56:01.837Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T15:56:01.863Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T15:56:13.236Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T15:56:13.261Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T15:56:15.289Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T15:56:15.338Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T15:56:19.129Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T15:56:19.152Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T15:56:26.664Z","level":"INFO","message":"Received modify event","additional_data":"To Do/To Do 03-09-2025.md"}
+{"timestamp":"2025-09-03T15:56:26.685Z","level":"INFO","message":"Updated modified file","additional_data":"To Do/To Do 03-09-2025.md"}

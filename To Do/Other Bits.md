@@ -1,0 +1,13 @@
+---
+tags:
+---
+- [ ] Obsidian Setup & Widgets 
+- [ ] Obsidian Move over OneNote Stuff
+- [ ] Sync Obsidian to GitHub
+- [ ] Github... work out how to use it
+- [X] Finance Spreadsheets - From Jan 2025
+- [X] Stuff Clearout
+- [X] Clear up Photos
+- [X] Dallas bits
+- [X] Bills sort 
+- [X] New house hunt
