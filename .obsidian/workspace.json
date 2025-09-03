@@ -162,7 +162,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 373.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -175,9 +176,6 @@
       "bases:Create new base": false,
       "homepage:Open homepage": false,
       "obsidian-importer:Open Importer": false,
-      "smart-connections:Open: Smart Chat": false,
-      "smart-connections:Smart Connections: Open connections view": false,
-      "smart-connections:Smart Connections: Open random connection": true,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false
     }
