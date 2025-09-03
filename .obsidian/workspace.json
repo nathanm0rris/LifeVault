@@ -11,17 +11,24 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Home.canvas",
-                "viewState": {
-                  "x": -420,
-                  "y": -324.6500358581543,
-                  "zoom": 0
+                "file": "To Do/To Do.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Home"
+              "icon": "lucide-file",
+              "title": "To Do"
             }
           }
         ]
@@ -169,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 373.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,9 +197,9 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Home.canvas",
     "Gift ideas.md",
     "Life Goals.md",
-    "Home.canvas",
     "Calendar.md",
     "Home.md",
     "To Do/To Do 03-09-2025.md",
