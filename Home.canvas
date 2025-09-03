@@ -1,7 +1,7 @@
 {
 	"nodes":[
-		{"id":"a1bcb2ba9abf6738","type":"file","file":"Calendar.md","x":-860,"y":-420,"width":400,"height":420},
-		{"id":"8a70070cded64491","x":-380,"y":-420,"width":400,"height":400,"type":"file","file":"To Do/To Do.md"}
+		{"id":"a1bcb2ba9abf6738","type":"file","file":"Calendar.md","x":-920,"y":-620,"width":480,"height":540},
+		{"id":"8a70070cded64491","type":"file","file":"To Do/To Do.md","x":-400,"y":-620,"width":460,"height":540}
 	],
 	"edges":[]
 }
