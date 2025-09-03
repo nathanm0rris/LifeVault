@@ -1,1 +1,7 @@
-{}
+{
+  "strictLineBreaks": true,
+  "newFileLocation": "current",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "./",
+  "propertiesInDocument": "hidden"
+}

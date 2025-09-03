@@ -11,10 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "canvas",
+              "state": {
+                "file": "Home.canvas",
+                "viewState": {
+                  "x": -420,
+                  "y": -124.44000000000004,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Home"
             }
           }
         ]
@@ -162,11 +169,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5,
-    "collapsed": true
+    "width": 373.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-full-calendar:Open Full Calendar": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -182,6 +189,11 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Gift ideas.md",
+    "Life Goals.md",
+    "Home.canvas",
+    "Calendar.md",
+    "Home.md",
     "To Do/To Do 03-09-2025.md",
     "Money/Bills to send to Ollie.md",
     "Money/17 North Street Bills Calcs.md",
@@ -192,21 +204,16 @@
     "To Do/Catchup.md",
     "Birthdays.md",
     "Obsidian Plugins.md",
-    "Life Goals.md",
-    "Gift ideas.md",
-    "Calendar.md",
     "To Do/To Do.md",
     "PhD Bits/ICED Interesting papers.md",
     "PhD Bits/Things to do for the PhD.md",
     "PhD Bits/PhD Pros + Cons List.md",
     "PhD Bits/PhD first meeting ideas.md",
     "PhD Bits/PhD Concepts to Think about.md",
-    "Untitled.canvas",
     "Random Ideas.md",
     "Shopping & Clothes/Shopping List.md",
     "Shopping & Clothes/Places to buy things.md",
     "Shopping & Clothes/Phones Comparison.md",
-    "Shopping & Clothes/Furniture & Things to buy for next year.md",
-    "Hello boos.md"
+    "Shopping & Clothes/Furniture & Things to buy for next year.md"
   ]
 }
