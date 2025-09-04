@@ -11,24 +11,17 @@
             "id": "e7a7b303c61786dc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "To Do/To Do 03-09-2025.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "Home.canvas",
+                "viewState": {
+                  "x": -430,
+                  "y": -350,
+                  "zoom": -0.018859027251315875
                 }
               },
-              "icon": "lucide-file",
-              "title": "To Do 03-09-2025"
+              "icon": "lucide-layout-dashboard",
+              "title": "Home"
             }
           }
         ]
@@ -197,8 +190,8 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Shopping & Clothes/Shopping List.md",
     "To Do/To Do 03-09-2025.md",
+    "Shopping & Clothes/Shopping List.md",
     "Home.canvas",
     "Life Goals.md",
     "To Do/To Do.md",
