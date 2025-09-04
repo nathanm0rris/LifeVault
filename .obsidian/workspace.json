@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Shopping & Clothes/Shopping List.md",
+                "file": "To Do/To Do 03-09-2025.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Shopping List"
+              "title": "To Do 03-09-2025"
             }
           }
         ]
@@ -176,7 +176,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 373.5
+    "width": 373.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,21 +197,21 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
-    "Gift ideas.md",
     "Shopping & Clothes/Shopping List.md",
+    "To Do/To Do 03-09-2025.md",
+    "Home.canvas",
+    "Life Goals.md",
+    "To Do/To Do.md",
+    "Gift ideas.md",
     "To Do/Catchup.md",
     "To Do/Getting Brain Back together.md",
     "To Do/Other Bits.md",
     "To Do/Portfolio.md",
     "To Do/This week.md",
-    "To Do/To Do.md",
     "Untitled.base",
     "Calendar.md",
     "Birthdays.md",
-    "Life Goals.md",
     "Obsidian Plugins.md",
-    "Home.canvas",
-    "To Do/To Do 03-09-2025.md",
     "Home.md",
     "Money/Bills to send to Ollie.md",
     "Money/17 North Street Bills Calcs.md",
