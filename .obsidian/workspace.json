@@ -15,8 +15,8 @@
               "state": {
                 "file": "Home.canvas",
                 "viewState": {
-                  "x": -413.0397368421054,
-                  "y": -341.51986842105254,
+                  "x": -430,
+                  "y": -350,
                   "zoom": -0.018859027251315875
                 }
               },
@@ -190,9 +190,10 @@
   },
   "active": "e7a7b303c61786dc",
   "lastOpenFiles": [
+    "Calendar.md",
     "To Do/To Do 03-09-2025.md",
-    "Shopping & Clothes/Shopping List.md",
     "Home.canvas",
+    "Shopping & Clothes/Shopping List.md",
     "Life Goals.md",
     "To Do/To Do.md",
     "Gift ideas.md",
@@ -202,7 +203,6 @@
     "To Do/Portfolio.md",
     "To Do/This week.md",
     "Untitled.base",
-    "Calendar.md",
     "Birthdays.md",
     "Obsidian Plugins.md",
     "Home.md",

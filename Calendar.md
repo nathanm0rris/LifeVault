@@ -1,8 +1,6 @@
 ---
 tags:
 ---
-05/09 - Charlotte Coffee etc.
-05/09 - Emily 
 06/09 - Naan Bread
 
 07/09 - 14/09 - Stay with Rosie
@@ -12,6 +10,7 @@ tags:
 24/09 - 29/09 - Hostel?
 22/09, 23/09 & 24/09 - Rosh Hashanah 
 27/09 - Danny?
+
 29/09 - 17 North Street Move in date
 01/10 & 02/10 - Yom Kippur
 05/10 - Parents visiting
